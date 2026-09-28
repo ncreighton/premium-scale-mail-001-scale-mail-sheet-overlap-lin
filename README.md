@@ -1,0 +1,2 @@
+# premium-scale-mail-001-scale-mail-sheet-overlap-lin
+Managing scale mail campaigns without losing track of overlapping contact lists and link performance data across multiple sheets is killing your conversion rates. The Scale Mail Sheet &amp; Overlap Link Craft Lab solves this by centralizing everything in one intelligent Notion workspace.  This isn't just another mail template—it's a complete system des
